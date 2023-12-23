@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 📫 How to reach me: paul.rook@gmail.com
 
-- ⚡ Fun fact: ...
+<!--- ⚡ Fun fact: ... -->
 
